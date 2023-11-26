@@ -1,5 +1,6 @@
 # DSA-Java-Questions
-This is regarding topicwise questions on dsa topics
+This is regarding topicwise questions on dsa topics.
+
 Topics:
 
 1.Arrays
