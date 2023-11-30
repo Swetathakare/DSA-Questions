@@ -37,3 +37,13 @@ public class BinarySearch {
 		printArray(array);
 	}
 }
+/*
+ 
+Output:
+
+Original Array :
+23 21 2 4 3 2212 32 -22 2321 886 54 33 
+Sorted Array :
+-22 2 3 4 21 23 32 33 54 886 2212 2321 
+
+*/
