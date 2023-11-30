@@ -2,7 +2,7 @@
 package practice;
 import java.util.*;
 
-public class BinarySearch {
+public class InsertionSort {
 	static Scanner sc = new Scanner(System.in);
 
 
