@@ -1,6 +1,6 @@
 # DSA-Java-Questions
 
-Topicwise solutions to frequently asked question on dsa topics. (Language used -JAVA)
+Topicwise solutions to frequently asked questions/Algorithmns on dsa topics. (Language used -JAVA)
 
 -----------
 Topics:
