@@ -2,7 +2,9 @@
 
 Topicwise solutions to frequently asked question on dsa topics. (Language used -JAVA)
 
+-----------
 Topics:
+-----------
 
 1.Arrays
 
