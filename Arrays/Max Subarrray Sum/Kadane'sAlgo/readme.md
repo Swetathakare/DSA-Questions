@@ -56,3 +56,7 @@ Explaination:-
 -------------
 
 Note :- n is the length of array.
+
+Kadane's Algorithmn says you calculate the current sum of the array if at any point current sum becomes zero make current sum 0 adding negative number to the sum will never give sum greater than the current sum and constantly update maximun sum if current sum is greater than maximum .
+
+At the end of the loop if maximum sum is zero then check if all the  numbers present in the array is negative or not if yes then return maximum number from the array otherwise return the calculated maximum sum.
