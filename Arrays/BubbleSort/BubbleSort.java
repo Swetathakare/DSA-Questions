@@ -1,7 +1,7 @@
 package practice;
 import java.util.*;
 
-public class BinarySearch {
+public class BubbleSort {
 	static Scanner sc = new Scanner(System.in);
 
 	static void bubbleSort(int array[]) {
