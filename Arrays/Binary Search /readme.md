@@ -19,7 +19,9 @@ Case 2) :- If the key is greater than the desired value and array is sorted then
 
 Case 3) :- If the key is less than the desired value and array is sorted then the desired key must be in the right portion of the array then set starting index as (start-1).
 
+-----------
+Visualisation of Binary Search
+-------------
 
-
-
+![Screenshot (350)](https://github.com/Swetathakare/DSA-Java-Questions/assets/143093330/54ee704e-db19-45dc-9b86-51d1477cc7ae)
 
