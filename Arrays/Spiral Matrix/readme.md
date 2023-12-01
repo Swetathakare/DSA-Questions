@@ -40,3 +40,4 @@ n == matrix[i].length
 ------------
 Explaination :-
 -------------
+At any point if the startrow is greater than end row or startcolumn is greater than endcolumn then means that row/column is already been printed and then break from the loop .
